@@ -1,0 +1,82 @@
+[
+    {
+        "courseName": "Financial Statement Analysis",
+        "review": 4.5,
+        "reviewCount": 512,
+        "instructor": "Dave johnson",
+        "price": 1500,
+        "id": 1,
+        "img": "https://mpm.ph//wp-content/uploads/2017/02/financial-statement-analysis.jpg",
+        "studentEnrolled": 1623
+    },
+    {
+        "courseName": "Fundametals of Finance",
+        "review": 4.6,
+        "reviewCount": 614,
+        "instructor": "Stwert Benson",
+        "price": 1050,
+        "id": 2,
+        "img": "https://executive.mit.edu/dw/image/v2/BFHZ_PRD/on/demandware.static/-/Sites-master-catalog-msee/default/dw5b8dd1c8/images/FIN.jpg?sw=400&sh=300",
+        "studentEnrolled": 1936
+    },
+    {
+        "courseName": "Learn Bookkeeping",
+        "review": 4.3,
+        "reviewCount": 537,
+        "instructor": "Calvin Lee",
+        "price": 1250,
+        "id": 3,
+        "img": "https://www.mdtaxattorney.com/wp-content/uploads/2019/07/shutterstock_420780988-1030x687.jpg",
+        "studentEnrolled": 1662
+    },
+    {
+        "courseName": "Cost Accounting Fundamentals",
+        "review": 4.7,
+        "reviewCount": 376,
+        "instructor": "David Burrel",
+        "price": 1300,
+        "id": 4,
+        "img": "https://cdn.wallstreetmojo.com/wp-content/uploads/2018/03/Cost-Accounting-main.jpg",
+        "studentEnrolled": 1073
+    },
+    {
+        "courseName": "Deposits in Islamic Banking",
+        "review": 4.8,
+        "reviewCount": 741,
+        "instructor": "Hussein Elasrag",
+        "price": 920,
+        "id": 5,
+        "img": "https://thumbs.dreamstime.com/z/phrase-islamic-banking-coins-spilled-glass-jar-rosary-isolated-white-background-finance-concept-206278926.jpg",
+        "studentEnrolled": 1967
+    },
+    {
+        "courseName": "PLS in Islamic Finace",
+        "review": 4.7,
+        "reviewCount": 289,
+        "instructor": "Ibrahim Karjai",
+        "price": 850,
+        "id": 6,
+        "img": "https://thumbs.dreamstime.com/z/profit-loss-29260373.jpg",
+        "studentEnrolled": 1235
+    },
+    {
+        "courseName": "Corporate Finance Fundamentals",
+        "review": 4.7,
+        "reviewCount": 321,
+        "instructor": "Nick Stevenson",
+        "price": 1030,
+        "id": 7,
+        "img": "https://s3.amazonaws.com/utep-uploads/wp-content/uploads/sparkle-box/2019/04/30112128/corporate-meeting-with-finance-director.jpg",
+        "studentEnrolled": 1145
+    },
+    {
+        "courseName": "Financial Accounting",
+        "review": 4.5,
+        "reviewCount": 448,
+        "instructor": "David Burrel",
+        "price": 1150,
+        "id": 8,
+        "img": "https://s3.us-east-1.amazonaws.com/co-assets/assets/images/_w622h415/financial-accounting.jpg",
+        "studentEnrolled": 1745
+    }
+]

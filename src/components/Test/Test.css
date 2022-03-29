@@ -1,0 +1,9 @@
+.course-image {
+  height: 220px;
+}
+.review {
+  color: rgb(61, 90, 138);
+  font-weight: bold;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
